@@ -1,0 +1,17 @@
+1. Created some more sheets to prepare (Working sheet, Pivot Table, Dashboard)
+2. Copied the data onto the working sheet incase you mess something up. You have the original data to go back to.
+3. Used Remove duplicates
+4. Changed M to Married and S to Single so there is less confusion with Gender.
+	- But also went ahead and changed M and F to Male and Female respectively.
+5. Checked rest of the columns to make sure there was no misspelled words or anything seemed off.
+6. Added a new column to create age brackets.
+
+Then moved on to creating Pivot Tables with graphs.
+7. Started with Avg Income per purchase
+	- Income = Value changed to average
+	- Gender = Row
+	- Purchase = Column
+8. Customer Commute
+	- Commute Distance = Row
+	- Purchased Bike = Column and Value
+	-Had to fix commute distance of 10+ miles since it wasn't showing in order.
