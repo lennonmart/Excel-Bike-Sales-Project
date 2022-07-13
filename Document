@@ -1,7 +1,7 @@
 Credit to Alex the Analyst for the data set.
 
 1. Created some more sheets to prepare (Working sheet, Pivot Table, Dashboard)
-2. Copied the data onto the working sheet incase you mess something up. You have the original data to go back to.
+2. Copied the data onto the working sheet incase I mess something up. I'll have the original data to go back to.
 3. Used Remove duplicates
 4. Changed M to Married and S to Single so there is less confusion with Gender.
 	- But also went ahead and changed M and F to Male and Female respectively.
